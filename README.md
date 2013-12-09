@@ -1,4 +1,15 @@
-sample-play-search
+Sample-play-search
 ==================
 
-sample play app with scala
+Sample play app with scala
+
+Run with play tool
+
+```
+play
+[play]: run
+
+or 
+
+[play]: ~run
+```
