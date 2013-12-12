@@ -1,6 +1,8 @@
 Sample-play-search
 ==================
 
+[![BuildStatus](https://travis-ci.org/ianjuma/sample-play-search.png)](https://travis-ci.org/ianjuma/sample-play-search)
+
 Sample play app with scala
 
 #### How to Run or Install?
