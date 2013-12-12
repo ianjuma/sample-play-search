@@ -25,3 +25,4 @@ play
 - [ ] RESTful API with JSON
 - [ ] Database Integration with Postgres
 - [ ] Session management with Redis
+- [ ] Elasticsearch Integration
