@@ -12,5 +12,13 @@ object Application extends Controller {
   def anotherPage = Action {
     Ok("Hey, another page is opened!")
   }
+
+  def somePage = Action {
+    Ok("This is another")
+  }
+
+  def fullView = Action {
+    Ok(views.html.index("index"))
+  }
   
 }
