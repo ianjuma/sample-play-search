@@ -18,7 +18,9 @@ object Application extends Controller {
   }
 
   def fullView = Action {
-    Ok(views.html.index("index"))
+    Ok(views.html.main("This is another route, it works"))
   }
+
+  def other = TODO
   
 }
