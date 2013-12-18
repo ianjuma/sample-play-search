@@ -24,5 +24,5 @@ object Application extends Controller {
   def other = TODO
 
   def index = TODO
-  
+
 }
